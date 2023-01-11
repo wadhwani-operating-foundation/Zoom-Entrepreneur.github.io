@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_container {
+    margin:4rem 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.main-heading{
+    color: rgb(2, 2, 2);
+    font-size: 1.5rem;
+}
+.description-text {
+    color: rgb(87, 86, 86);
+}
+.two{
+    margin-top: 1rem;
+}
+.three{
+    margin-top: 0.5rem;
+}
+.heading{
+    margin-top: 2rem;
+    align-self: center;
+    text-decoration: underline;
+}
+.list-heading{
+    margin-top: 2rem;
+}
+
+ol>li {
+    padding: 20px;
+  }
+  img{
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
